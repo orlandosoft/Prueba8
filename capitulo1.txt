@@ -1,0 +1,38 @@
+Capítulo 1
+
+
+La guía de PMBOK proporciona y promueve un vocabulario
+
+Propósito de la guía del PMBOK proporciona y promueve un vocabulario común para el uso  y la aplicación de los conceptos de dirección de proyecots
+
+¿Qué es un proyecto?
+Es un esfuerzo temporal que se lleva a cabo para crear un producto, o resultado único, pero aunque sea temporal, no significa que el proyecto deba ser corto, sólo se refiere a los compromisos que se obtienen al involucrarte en el proyecto y este se obtiene de diferente manera para cada uno de los proyectos, también difiere en el número de personas u organizaciones involucradas y por lo tanto un proyecto puede generar un producto, un servicio, una mejora de la línea de los productos o servicios o un resultado tal como una conclusión o un documento.
+
+Relaciones entre portafolios, programas y proyectos
+Tenemos que tener claro que un portafolio se refiere a un conjunto de proyectos, programas, subconjuntos de portafolios y operaciones que se gestionan como un grupo para alcanzar determinados objetivos estratégicos y aunque los proyectos del portafolio no son interdependientes y no se encuentran relacionados de manera directa están vinculados al plan estratégico de la organización mediante el portafolio de la misma. De manera jerárquica o agrupados en subgrupos para que estos trabajen de manera independiente.
+
+
+¿Qué es la dirección de proyectos?
+La dirección de proyectos es la aplicación de conocimientos, habilidades, herramientas y técnicas a las actividades del proyecto para cumplir con los requisitos del mismo, es como la parte técnica para después ser aplicada en el mismo, es agrupado a diferentes procesos a lo largo de la vida del proyecto que son: inicio, planificación, ejecución, seguimiento y control y cierre, al momento de dirigir un proyecto debemos tener claro que  se envuelven diferentes aspectos como la identificación de los requisitos, abordar las diferentes necesidades e inquietudes de nuestro cliente, patrocinador u otros interesados del proyecto, mantener una fuente de comunicación clara con los involucrados para que no existan problemas en las siguientes etapas y equilibrar las restricciones ya acordadas además del alcance, la calidad, el cronograma de las actividades, el presupuesto los recursos y los riesgos que todo proyecto implica.
+
+
+Relaciones entre dirección de portafolios, dirección de programas, dirección de proyectos y dirección organizacional de proyectos
+Para entender los conceptos, es necesario conocer sus similitudes y las diferencias que existen entre cada una de las disciplinas entonces sabemos que la dirección de portafolios se alinea con las estrategias organizacionales mediante la selección de los programas o proyectos adecuados, el establecimiento de las prioridades y la provisión de los recursos necesarios, mientras que la dirección de programas adecua sus proyectos y controla las interdependencias a fin de lograr los beneficios estipulados, la dirección de proyectos desarrolla e implementa planes para lograr un alcance determinado, que vienen dados por los objetivos del programa o del portafolio al cual está vinculado, OPM  potencia la capacidad de la organización para la obtención de los objetivos específicos utilizando estas relaciones. También están conceptos claves como la dirección de programas que se define como un grupo de proyectos relacionados, subprogramas y actividades de programas, cuya gestión se realiza de manera coordinada para obtener beneficios que no se lograrían de manera individual, su principal enfoque es el de resolver restricciones, alinear la dirección de la organización y resolver de gestión de incidentes. Un portafolio consiste en proyectos, programas, subconjuntos de portafolio y operaciones gestionadas como un grupo con objeto de alcanzar los diferentes objetivos estratégicos, estos no son necesariamente interdependientes, se centra en asegurar que los proyectos y programas se revisen a fin de establecer prioridades para la asignación de recursos.
+También cabe señalar que una oficina de dirección de proyectos PMO es una estructura de gestión que estandariza los procesos de gobierno relacionados con el proyecto y hace más fácil la manera de compartir recursos, metodología, herramientas y técnicas. Existen diferentes tipos de estructuras de PMO en las organizaciones dependiendo del tipo de proyecto como lo son las de control, de apoyo y directiva.
+
+Relación entre dirección de proyectos, gestión de operaciones y estrategia organizacional
+La gestión de operaciones es responsable de la supervisión, la dirección y el control de operaciones del negocio, los proyectos requieren actividades de dirección de proyectos y conjuntos de habilidades, mientras que las operaciones requieren de gestión de procesos de negocio, actividades de gestión de operaciones y conjunto de habilidades, las operaciones son esfuerzos continuos que producen salidas repetitivas, con recursos asignados para realizar básicamente el mismo conjunto de tareas dentro del ciclo de vida del proyecto. La gestión de operaciones es un área que se ocupa de la producción continua de bienes y/o servicios.
+
+Organización y dirección de proyectos
+Las organizaciones establecen la dirección estratégica y los parámetros de desempeño a través de la gobernabilidad, la dirección estratégica establece el propósito, las expectativas, las metas y las acciones necesarias para guiar el desarrollo del negocio y está alineada con los objetivos del negocio, cuando la alineación del proyecto con el negocio es constante, las posibilidades de éxito  del proyecto aumentan, teniendo en cuenta que el éxito de un proyecto se puede juzgar sobre la base de lo que el producto o servicio resultante sirva al gobierno corporativo, cuando los objetivos del proyecto entran en conflicto  con la estrategia organizacional, es responsabilidad del director del proyecto identificar y documentar dichos conflictos.
+
+Valor del negocio
+El valor del negocio es un concepto único para cada organización, se define como el total de sus elementos tangibles o intangibles, las organizaciones pueden alcanzar transiciones satisfactorias entre los ámbitos de portafolio, programa y proyecto y lograr una gestión de las inversiones y una materialización del valor del negocio.
+
+
+Rol del director de proyecto
+El director del proyecto es el encargado de liderar al equipo responsable para  de alcanzar los objetivos del proyecto,el director de proyecto trabaja estrechamente con el director del programa o del portafolio para cumplir con los objetivos del proyecto, también trabaja en colaboración con otros roles como los de analista de negocio, director de aseguramiento de calidad y expertos en materia específicas, además todo director de proyecto debe contar con conocimiento sobre la dirección proyectos, debe ser capaz de hacer o lograr cuando aplica sus conocimientos sobre la dirección proyectos y capacidad de guiar al equipo del proyecto mientras  se cumplen con los objetivos del proyecto y se equilibran las restricciones del mismo. Algunas de las habilidades interpersonales par el director de proyecto son: liderazgo, trabajo en equipo, motivación, comunicación, influencia, toma de decisiones y conocimineto de  de política
+
+
+
+
